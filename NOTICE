@@ -1,0 +1,32 @@
+plugins-br
+Licenciado sob a Apache License, versão 2.0 (arquivo LICENSE).
+
+Este projeto contém obras derivadas de material de terceiros. O material
+adaptado foi modificado: traduzido para o português do Brasil, condensado,
+fundido e corrigido, e nenhum script das fontes foi copiado.
+
+Fontes, versões (sha), licenças e o que foi feito com cada uma:
+  CREDITS.md
+
+Textos das licenças e arquivos NOTICE originais de cada fonte adaptada:
+  licencas/terceiros/ (a relação completa está em licencas/terceiros/INDICE.csv)
+
+Os arquivos NOTICE das fontes abaixo são mantidos sem alteração em
+licencas/terceiros/<dono>-<repositório>/NOTICE:
+  dariovr1/sixth-sense
+  icons8/agent-skills
+  jpantsjoha/ai-native-developer-experience
+  kensaurus/cursor-kenji
+  matematicsolutions/matematic-humanizer
+  matematicsolutions/matematic-reviewer
+  mcpgate-de/maisecrets
+  mehrang0/playcut-brush
+  najikay/claude-admin-desk
+  najikay/claude-writing-desk
+
+Algumas fontes não trazem arquivo de licença e apenas a declaram no manifesto
+do plugin. Elas estão identificadas por um arquivo SEM-ARQUIVO-DE-LICENCA.md
+na pasta correspondente.
+
+Fontes sob CC BY-SA, GPL ou AGPL, e obras protegidas sem licença de reuso, não
+foram adaptadas: delas entrou no máximo a ideia, com o texto escrito do zero.

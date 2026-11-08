@@ -1,0 +1,9 @@
+{
+  "name": "escrita",
+  "displayName": "Escrita",
+  "version": "0.1.0",
+  "description": "Escrever e revisar em português do Brasil sem mudar o que o autor disse: revisão, voz, redação a partir de notas, crítica de argumento e método de pesquisa.",
+  "author": { "name": "P1xeled" },
+  "license": "Apache-2.0",
+  "keywords": ["escrita", "revisão", "português", "voz", "pesquisa"]
+}

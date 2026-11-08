@@ -1,0 +1,27 @@
+{
+  "id": "dc-por-linha",
+  "descricao": "Valor com sufixo D ou C e saldo na mesma linha.",
+  "status": "modelo genérico, não ligado a banco; a prova é o saldo",
+  "tipo": "texto",
+  "linha": "^(?P<data>\\d{2}/\\d{2}(?:/\\d{4})?)\\s+(?P<descricao>.+?)(?:\\s+(?P<ref>\\d{3,}))?\\s+(?P<valor>\\d[\\d.]*,\\d{2})\\s*(?P<dc>[DCdc])(?:\\s+(?P<saldo>\\d[\\d.]*,\\d{2})\\s*(?P<saldo_dc>[DCdc]))?\\s*$",
+  "formato_data": "%d/%m/%Y",
+  "sinal": "dc",
+  "saldo_inicial": "(?i)saldo\\s+anterior\\s+(?P<valor>\\d[\\d.]*,\\d{2})\\s*(?P<dc>[DC])?",
+  "saldo_final": "(?i)saldo\\s+(?:final|atual)\\s+(?P<valor>\\d[\\d.]*,\\d{2})\\s*(?P<dc>[DC])?",
+  "ignorar": [
+    "^P[aá]gina\\s+\\d+",
+    "^Pag\\.\\s*\\d+",
+    "(?i)^data\\s+.*(hist[oó]rico|descri[cç][aã]o|lan[cç]amento)",
+    "(?i)central de atendimento",
+    "(?i)ouvidoria",
+    "(?i)^extrato\\b",
+    "(?i)^ag[eê]ncia\\b",
+    "(?i)^conta\\b",
+    "(?i)^per[ií]odo\\b",
+    "(?i)^a\\s+transportar\\b",
+    "(?i)^transporte\\b"
+  ],
+  "linha_sem_valor": "^(?P<data>\\d{2}/\\d{2}(?:/\\d{4})?)\\s+(?P<descricao>\\D.*\\D)$",
+  "continuacao": true,
+  "ordem": "crescente"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "csv-duas-colunas",
+  "descricao": "Exportação CSV com colunas de crédito e débito; troque os nomes em colunas pelos do arquivo.",
+  "status": "modelo genérico, não ligado a banco; a prova é o saldo",
+  "tipo": "csv",
+  "delimitador": ";",
+  "formato_data": "%d/%m/%Y",
+  "colunas": {
+    "data": "Data",
+    "descricao": "Historico",
+    "ref": "Documento",
+    "credito": "Credito",
+    "debito": "Debito",
+    "saldo": "Saldo"
+  },
+  "ordem": "crescente"
+}

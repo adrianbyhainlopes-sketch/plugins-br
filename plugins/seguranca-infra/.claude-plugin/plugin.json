@@ -1,0 +1,9 @@
+{
+  "name": "seguranca-infra",
+  "displayName": "Segurança e infraestrutura",
+  "version": "0.1.0",
+  "description": "Decidir se dá para pôr no ar e operar com segurança uma app Next.js com Supabase na Vercel: revisão com evidência, banco e RLS, segredos e publicação de repositório, portão de deploy e containers locais. Feito para o Claude Code; um agente só de leitura que tenta refutar os achados.",
+  "author": { "name": "P1xeled" },
+  "license": "Apache-2.0",
+  "keywords": ["segurança", "supabase", "rls", "vercel", "segredos", "lgpd", "deploy", "docker", "nextjs"]
+}

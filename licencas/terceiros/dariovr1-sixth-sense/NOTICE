@@ -1,0 +1,25 @@
+This project is licensed under the MIT License (see LICENSE) and incorporates
+or adapts material from the following MIT-licensed projects:
+
+- Based on obra/superpowers (c) Jesse Vincent, MIT License
+- Inspired by mattpocock/skills (c) Matt Pocock, MIT License
+- skills/test-driven-development/references/minimal-implementation.md adapted
+  from DietrichGebert/ponytail's core `ponytail` skill, MIT License
+- skills/managing-development-branches' Conflicts section adapted from
+  mattpocock/skills' resolving-merge-conflicts, MIT License
+- skills/test-driven-development/references/seams-and-interfaces.md adapted
+  from mattpocock/skills' codebase-design, MIT License
+- agents/dylan-dog-hunter.md's Spec Conformance section adapted from
+  mattpocock/skills' code-review Standards/Spec two-axis discipline, MIT
+  License
+- skills/test-driven-development/SKILL.md's REFACTOR tags and
+  skills/verification-before-completion's cut-corner ledger step adapted from
+  DietrichGebert/ponytail's ponytail-review and ponytail-debt skills, MIT
+  License
+- skills/specifying-and-implementing/references/migration.md and small additions to
+  skills/diagnosing-bugs, skills/verification-before-completion adapted from
+  JuliusBrussee/caveman's migration/surgical-patch/verify-and-stop skills
+  (MIT License, skills/ directory only — see that repo's LICENSING.md for its
+  Engine-linked BSL-1.1 exclusions, none of which were used here)
+- hooks/block-dangerous-git.js adapted from mattpocock/skills'
+  git-guardrails-claude-code, MIT License

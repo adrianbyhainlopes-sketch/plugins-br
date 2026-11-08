@@ -1,0 +1,369 @@
+plugin,skill,fonte,uso,mudancas
+compartilhado,casa,,do zero,
+compartilhado,trava-de-fatos,grayskripko-copy-editing,adaptado,"traduzido, condensado, fundido"
+compartilhado,trava-de-fatos,grayskripko-copywriting-kit,adaptado,"traduzido, condensado, fundido"
+compartilhado,trava-de-fatos,grayskripko-ad-creative,adaptado,"traduzido, condensado, fundido"
+compartilhado,trava-de-fatos,matematic-humanizer,adaptado,"condensado, fundido"
+compartilhado,trava-de-fatos,writing-desk,adaptado,"traduzido, condensado, fundido"
+compartilhado,vicios-pt,matematic-humanizer,adaptado,"condensado, exemplos reescritos do zero"
+compartilhado,vicios-pt,blader-humanizer,adaptado,"traduzido, condensado, exemplos reescritos do zero"
+compartilhado,vicios-pt,matematic-reviewer,adaptado,"condensado, sem a categoria jurídica"
+compartilhado,vicios-pt,marko,adaptado,via matematic-reviewer
+compartilhado,vicios-pt,grayskripko-copywriting-kit,adaptado,"traduzido, reescrito em português"
+compartilhado,formatos-br,,do zero,
+compartilhado,contrato-rumo,,do zero,
+escrita,revisar-texto,grayskripko-copy-editing,adaptado,"traduzido, condensado, camada de português escrita do zero"
+escrita,revisar-texto,writing-desk,adaptado,"traduzido, condensado"
+escrita,revisar-texto,matematic-humanizer,adaptado,condensado
+escrita,revisar-texto,blader-humanizer,adaptado,"traduzido, condensado"
+escrita,revisar-texto,writing-skills,adaptado,"traduzido, só princípios"
+escrita,revisar-texto,iso-24495,adaptado,"traduzido, só princípios, sem citar a norma"
+escrita,revisar-texto,matematic-reviewer,adaptado,"formato do modo apontar, condensado"
+escrita,revisar-texto,marko,adaptado,via matematic-reviewer
+escrita,revisar-texto,brandketing,adaptado,"taxonomia de falhas, traduzida"
+escrita,voz,hard-half,adaptado,"traduzido, condensado, bateria em português escrita do zero"
+escrita,voz,write-like-me,adaptado,"traduzido, condensado"
+escrita,voz,ghost-writer,adaptado,"traduzido, sem a atualização silenciosa"
+escrita,voz,social-media-skills,adaptado,"traduzido, condensado, sem menções a serviço de terceiros"
+escrita,redigir,hard-half,adaptado,"só as regras da pirâmide, reescritas"
+escrita,redigir,writing-desk,adaptado,"traduzido, condensado"
+escrita,redigir,grayskripko-voice-messages,adaptado,"traduzido, modo leve"
+escrita,redigir,research-superpowers,adaptado,"traduzido, condensado, sem scripts nem hooks"
+escrita,redigir,writing-process,adaptado,"traduzido, condensado"
+escrita,redigir,riff,adaptado,"traduzido, sem a proibição de pontuação"
+escrita,redigir,ghost-writer,adaptado,"traduzido, condensado"
+escrita,redigir,genie-method,adaptado,"traduzido, só a bíblia de não ficção e a checagem"
+escrita,criticar,ghost-writer,adaptado,"traduzido, condensado, atualização sempre anunciada"
+escrita,criticar,riff,adaptado,"traduzido, condensado"
+escrita,criticar,superpower-builder,adaptado,"traduzido, condensado"
+escrita,criticar,writing-desk,adaptado,"traduzido, condensado"
+escrita,criticar,cognitive-bias-lab,adaptado,"traduzido, sem a nota científica"
+escrita,metodo-de-pesquisa,scriptorium-cowork,adaptado,"traduzido, condensado, sem serviço pago"
+escrita,metodo-de-pesquisa,popper-probe,adaptado,"traduzido, condensado, sem o validador"
+escrita,metodo-de-pesquisa,research-superpowers,adaptado,"traduzido, condensado"
+escrita,metodo-de-pesquisa,content-analysis,adaptado,"traduzido, condensado, sem instalar pacotes"
+escrita,metodo-de-pesquisa,,do zero,modo questionário e amostragem
+compartilhado,evidencia-numerica,grayskripko-sku-margin,adaptado,"traduzido, condensado, regras de evidência generalizadas"
+compartilhado,evidencia-numerica,,do zero,"fechamento, arredondamento e conta mostrada"
+compartilhado,ganchos,social-media-skills,adaptado,"traduzido, condensado, sem YouTube e e-mail, sem números sem fonte"
+compartilhado,formulas-gerenciais,grayskripko-sku-margin,adaptado,"margem de contribuição traduzida e condensada, imposto sobre a receita como custo variável"
+compartilhado,formulas-gerenciais,grayskripko-marketing-ideas,adaptado,"payback traduzido, em real, sem tabela de regras estrangeiras"
+compartilhado,formulas-gerenciais,statutory-reporting,ideia,tabela de índices
+compartilhado,formulas-gerenciais,germany-finance,ideia,quadro do custo total do empregador
+compartilhado,formulas-gerenciais,,do zero,"ponto de equilíbrio, preço e markup, desconto, caixa projetado, capital de giro"
+compartilhado,dados/publicidade-br,,do zero,"CDC e CONAR lidos na fonte primária em 08/11/2026"
+compartilhado,dados/lgpd,,do zero,"LGPD e resoluções da ANPD lidas na fonte primária em 08/11/2026"
+compartilhado,dados/regras-fiscais-br.csv,,do zero,"estrutura; cada linha com vigência, status e fonte"
+pequeno-negocio,marca,social-media-skills,adaptado,"traduzido, condensado, sem menções a serviço de terceiros, exemplos reescritos"
+pequeno-negocio,instagram,social-media-skills,adaptado,"traduzido, condensado, sem serviço de publicação, sem números sem fonte"
+pequeno-negocio,instagram,alt-text,adaptado,"traduzido, condensado, tamanho curto para o Instagram"
+pequeno-negocio,instagram,editorial-os,adaptado,"traduzido, só o método de reaproveitamento, sem conectores"
+pequeno-negocio,copy,coreyhaines31,adaptado,"traduzido, condensado, sem perguntas retóricas, com a trava de fatos"
+pequeno-negocio,copy,grayskripko-copywriting-kit,adaptado,"traduzido, condensado, base legal estrangeira trocada pela brasileira"
+pequeno-negocio,copy,brandketing,adaptado,"taxonomia de falhas e regras de conserto traduzidas, exemplos reescritos"
+pequeno-negocio,copy,matematic-reviewer,adaptado,"formato do modo apontar, condensado"
+pequeno-negocio,copy,marko,adaptado,via matematic-reviewer
+pequeno-negocio,copy,,do zero,"regras brasileiras de publicidade e LGPD aplicadas à copy"
+pequeno-negocio,anuncios,grayskripko-ad-creative,adaptado,"traduzido, condensado, tabelas de limite refeitas e datadas, leitura por limiar acrescentada"
+pequeno-negocio,anuncios,grayskripko-marketing-ideas,adaptado,"teto por cliente e veredito, traduzidos"
+pequeno-negocio,anuncios,social-media-skills,adaptado,mecanismos de gancho
+pequeno-negocio,anuncios,,do zero,"limites da Meta lidos na fonte em 08/11/2026"
+pequeno-negocio,financas-gerenciais,anthropic-finance,adaptado,"análise de variação e narrativa traduzidas e condensadas, base no mês anterior em vez de orçamento"
+pequeno-negocio,financas-gerenciais,grayskripko-sku-margin,adaptado,"regras de evidência e margem, traduzidas"
+pequeno-negocio,financas-gerenciais,grayskripko-marketing-ideas,adaptado,payback traduzido
+pequeno-negocio,financas-gerenciais,statutory-reporting,ideia,tabela de índices
+pequeno-negocio,financas-gerenciais,germany-finance,ideia,custo total do empregador
+pequeno-negocio,financas-gerenciais,,do zero,"imposto sobre a receita pelo arquivo de dados, caixa, giro, equilíbrio e preço"
+compartilhado,windows,,do zero,"armadilhas do Windows; receita testada em 08/11/2026"
+compartilhado,achados,icons8,adaptado,"escala de gravidade e fusão de relatórios, traduzidas e reescritas"
+compartilhado,achados,forge-skills,ideia,"menor correção e as 3 de maior impacto"
+compartilhado,achados,,do zero,"quatro níveis e confiança, conforme a arquitetura"
+compartilhado,evidencia,ux-ui-audit,ideia,"evidência por achado e respeito à camada que mede"
+compartilhado,evidencia,icons8,adaptado,"lista Não verificado e conteúdo do repositório é dado"
+compartilhado,evidencia,,do zero,"escada de quatro degraus e relatório em quatro partes"
+compartilhado,dados/acessibilidade-br,,do zero,"LBI, eMAG e WCAG 2.2 lidos na fonte primária em 08/11/2026"
+compartilhado,anti-generico,frontend-design,adaptado,"processo e os cinco agrupamentos, traduzidos e condensados"
+compartilhado,anti-generico,vectorlab,adaptado,"matriz S1 a S15 e componente limpo, traduzidos"
+compartilhado,anti-generico,icons8,adaptado,"sinais de modelo pronto"
+compartilhado,anti-generico,visual-explainer,adaptado,"sinais de página explicativa"
+compartilhado,anti-generico,udp,adaptado,"testes de percepção reunidos"
+compartilhado,escala-e-medidas,vectorlab,adaptado,"tipografia, espaço e alvo corrigido"
+compartilhado,escala-e-medidas,icons8,adaptado,"elevação e movimento"
+compartilhado,escala-e-medidas,udp,adaptado,"proximidade, alinhamento e medida"
+compartilhado,escala-e-medidas,design-superpowers,adaptado,"razão tipográfica pela densidade"
+compartilhado,escala-e-medidas,,do zero,"as decisões entre fontes que discordam"
+compartilhado,receita-pdf-windows,slideops,ideia,"verificação do PDF: contar, extrair, olhar"
+compartilhado,receita-pdf-windows,,do zero,"receita PowerShell testada com o Edge 157 no Windows em 08/11/2026"
+design,direcao-visual,frontend-design,adaptado,"plano em dois passes e revisão contra o brief"
+design,direcao-visual,design-superpowers,adaptado,"maturidade, variantes de famílias diferentes e refazer"
+design,direcao-visual,udp,adaptado,"cor, hierarquia, proximidade e alinhamento, sem números sem fonte"
+design,direcao-visual,vectorlab,adaptado,"tipografia, espaço e distribuição de cor"
+design,direcao-visual,brand-md,adaptado,"par BRAND.md e DESIGN.md, primitivas e deriva"
+design,direcao-visual,forge-skills,adaptado,"identidade, logotipo, cor de marca e de interface, ícones"
+design,direcao-visual,brand-studio,adaptado,"métodos de símbolo"
+design,direcao-visual,playcut-brush,adaptado,"ofício de logotipo, sem o comentário promocional"
+design,direcao-visual,design-library,ideia,"três controles das variantes"
+design,direcao-visual,render-visual,ideia,"acentos com significado"
+design,telas,screenspec,adaptado,"especificação leve e completa, notação e conferência"
+design,telas,icons8,adaptado,"estados, acabamento, tokens, movimento e revisão"
+design,telas,vectorlab,adaptado,"vazio, carregando, formulários, larguras, teclado e movimento reduzido"
+design,telas,forge-skills,adaptado,"modelos de página, componente e acabamento"
+design,telas,tailwind-design-system,adaptado,"pegadinhas do Tailwind v4 e migração"
+design,telas,intent,adaptado,"texto de interface e acessibilidade (CC0), reescritos em português"
+design,telas,design-skills-a11y,adaptado,"WCAG 2.2, cortado e corrigido"
+design,telas,sage,adaptado,"os quatro críticos"
+design,telas,anthropic-design,adaptado,"crítica sem navegador"
+design,telas,ux-ui-audit,ideia,"passada de leitura e camada de dados"
+design,telas,udp,adaptado,"estresse de conteúdo e subtração"
+design,telas,,do zero,"formatos brasileiros nos formulários, texto em português, LBI e eMAG"
+design,apresentacoes,dataink,adaptado,"narrativa, quatro testes, tabelas e painéis"
+design,apresentacoes,keynot,adaptado,"casca do deck e PDF por impressão, corrigidos"
+design,apresentacoes,visual-explainer,adaptado,"mapear a fonte inteira para slides"
+design,apresentacoes,slideops,ideia,"verificação do PDF exportado"
+design,apresentacoes,,do zero,"letra de projeção a testar, citação e referências, receita no Windows"
+design,impressos-e-imagens,lorkindoc,adaptado,"esqueleto, contrato de impressão e sumário, sem a marca"
+design,impressos-e-imagens,playcut-brush,adaptado,"contrato do SVG e laço de ver antes de responder"
+design,impressos-e-imagens,render-visual,adaptado,"regras de figura e diagrama, só o texto"
+design,impressos-e-imagens,cv-skills,ideia,"armadilhas de rasterização"
+design,impressos-e-imagens,dataink,adaptado,"infográfico"
+design,impressos-e-imagens,,do zero,"livro A4, sumário em duas passadas, notas, hifenização, licença de fonte, SVG acessível, peças a partir de roteiro"
+compartilhado,regras-de-base,senior-engineer-guardrails,adaptado,"passos 0 a 4 e autorrevisão, condensados"
+compartilhado,regras-de-base,kenji-skills,adaptado,quatro guarda-corpos do workflow-coding-discipline
+compartilhado,regras-de-base,no-cape,adaptado,fail-loud: pergunta do ramo de fallback
+compartilhado,regras-de-base,ultraship,ideia,conferir a versão instalada antes da API
+compartilhado,regras-de-base,thinwindow,ideia,gastar menos tokens
+compartilhado,regras-de-base,kumi,ideia,regras de convivência
+compartilhado,regras-de-base,,do zero,bloco curto para o CLAUDE.md
+compartilhado,comandos-destrutivos,senior-engineer-guardrails,ideia,git só leitura
+compartilhado,comandos-destrutivos,,do zero,"camadas, PowerShell, Supabase, Vercel e Docker"
+compartilhado,segredos-sessao,,do zero,
+compartilhado,dinheiro-e-datas-no-codigo,coding-skills,adaptado,clocks-and-time
+compartilhado,dinheiro-e-datas-no-codigo,,do zero,"Decimal, centavos, data sem hora, America/Sao_Paulo, identificadores"
+compartilhado,supabase-auth,kenji-skills,ideia,getSession no servidor como achado (audit-auth-flows)
+compartilhado,supabase-auth,,do zero,"escrito a partir da documentação do Supabase e do exemplo oficial do Next, conferidos em 08/11/2026"
+engenharia,automacoes,samautomation-workflows,adaptado,"travas do n8n, trio de teste, formato de entrega"
+engenharia,automacoes,webhook-contract,adaptado,"contrato com guarda, seis cenários, diagnóstico e revisão em 7 itens; sem o script"
+engenharia,automacoes,coding-agent-skills,adaptado,pytest (fixtures e mock na fronteira)
+engenharia,automacoes,ultrapowers-dev,ideia,"base de Python, com a correção do argumento padrão mutável"
+engenharia,automacoes,coding-skills,adaptado,unicode-pitfalls e retry-amplification
+engenharia,automacoes,,do zero,"Python no Windows, planilhas, OCR, idempotência de pasta, modo de ensaio, log legível, desenho n8n genérico"
+engenharia,planejar,px,adaptado,plan-task
+engenharia,planejar,first-pass,adaptado,premortem das dez perguntas
+engenharia,planejar,backend-design,adaptado,think-before-coding
+engenharia,planejar,fellowship,adaptado,design-it-twice
+engenharia,planejar,feature-dev,adaptado,"fluxo em fases, exploradores e arquitetos"
+engenharia,planejar,prflow,adaptado,"doc é mapa, não prova; números marcados como estimativa"
+engenharia,planejar,superpowers-optimized,adaptado,status do implementador e revisão em dois portões
+engenharia,planejar,kenji-skills,adaptado,brief de delegação e isolamento
+engenharia,planejar,nxtg-forge,ideia,execução paralela
+engenharia,testar-e-verificar,ai-team-skills,adaptado,"passo 0, prova de que o teste segura carga, mutação, código de saída"
+engenharia,testar-e-verificar,evanflow,adaptado,anti-alfaiataria e aviso sobre o assert
+engenharia,testar-e-verificar,no-cape,adaptado,testes com significado
+engenharia,testar-e-verificar,backend-design,adaptado,o que vale testar
+engenharia,testar-e-verificar,off-by-none,adaptado,"borda N-1, N, N+1 e relatório em três seções"
+engenharia,testar-e-verificar,service-boundary-tests,adaptado,tabela de decisão da fronteira
+engenharia,testar-e-verificar,coding-agent-skills,adaptado,pytest e Vitest
+engenharia,testar-e-verificar,sixth-sense,adaptado,portão antes de afirmar
+engenharia,testar-e-verificar,mana,adaptado,escada de evidência e fato de segurança
+engenharia,testar-e-verificar,cairn,adaptado,conferir as afirmações do agente
+engenharia,testar-e-verificar,red-before-green,adaptado,sonda de mutação
+engenharia,testar-e-verificar,nxtg-forge,adaptado,validação em execução e auditoria da suíte
+engenharia,testar-e-verificar,dod-guard,adaptado,sinais de stub
+engenharia,testar-e-verificar,first-pass,ideia,ship-check reescrito
+engenharia,testar-e-verificar,repo-hygiene,adaptado,commit verificado
+engenharia,testar-e-verificar,kenji-skills,adaptado,"commit, conflito de merge e falsa conclusão"
+engenharia,testar-e-verificar,aictrl,adaptado,classes de evidência no PR
+engenharia,testar-e-verificar,agent-protocols,adaptado,resumo em três blocos
+engenharia,testar-e-verificar,skillquiver,adaptado,fechar uma branch
+engenharia,testar-e-verificar,,do zero,apêndice Next 16 com Supabase local e fluxo git solo
+engenharia,revisar-e-refatorar,agent-protocols,adaptado,"rubrica de cinco eixos e simplificação, sem return await"
+engenharia,revisar-e-refatorar,code-review-oficial,adaptado,validação independente de cada achado
+engenharia,revisar-e-refatorar,feature-dev,adaptado,corte de confiança do code-reviewer
+engenharia,revisar-e-refatorar,dishonest-code-audit,adaptado,"código que mente, sem agregador"
+engenharia,revisar-e-refatorar,ticket-plugin,ideia,"só a ideia de revisar testes em separado; texto do zero, porque a fonte é CC BY-SA 4.0"
+engenharia,revisar-e-refatorar,brooks-lint,adaptado,eixo de design
+engenharia,revisar-e-refatorar,kenji-skills,adaptado,segurança de codemod
+engenharia,revisar-e-refatorar,vibe-coding,adaptado,fronteira servidor e cliente
+engenharia,revisar-e-refatorar,api-drift-detector,adaptado,contratos entre camadas
+engenharia,revisar-e-refatorar,backend-design,adaptado,N+1
+engenharia,revisar-e-refatorar,superpowers-optimized,adaptado,receber revisão
+engenharia,revisar-e-refatorar,blueprint,adaptado,classificação de comentários de PR
+engenharia,revisar-e-refatorar,skillquiver,adaptado,refatoração segura e legado
+engenharia,revisar-e-refatorar,cc10x,adaptado,duplicata semântica e teste da deleção
+engenharia,revisar-e-refatorar,shazam,adaptado,aprofundar módulos
+engenharia,revisar-e-refatorar,enpitech,ideia,calibração pelo package.json
+engenharia,depurar,skillquiver,adaptado,laço de evidência
+engenharia,depurar,zsl-superpowers,adaptado,catálogo de laços de feedback
+engenharia,depurar,backend-design,adaptado,modo incidente e sintoma em cinco perguntas
+engenharia,depurar,first-pass,adaptado,corrigir a classe
+engenharia,depurar,px,adaptado,trilha de frontend
+engenharia,depurar,nlsmdn,adaptado,escalada de bug teimoso
+engenharia,depurar,cairn,adaptado,cópia morta (modo 2)
+engenharia,depurar,debugging-code,ideia,método de depurador
+engenharia,depurar,git-bisect-pr-review,adaptado,bisect corrigido
+engenharia,next-supabase,kolosys,adaptado,"módulo por rota e Server Action como fronteira, conferidos na doc do Next 16"
+engenharia,next-supabase,senior-engineer-guardrails,adaptado,referências de backend e frontend
+engenharia,next-supabase,type-safety,adaptado,TypeScript estrito
+engenharia,next-supabase,coding-skills,adaptado,parse-dont-validate
+engenharia,next-supabase,perf-profiler,adaptado,desempenho por métrica
+engenharia,next-supabase,ultrapowers-dev,ideia,ordem de prioridade de desempenho
+engenharia,next-supabase,bundle-size-sentinel,adaptado,checklist de dependência
+engenharia,next-supabase,version-sentinel,ideia,conferir versão
+engenharia,next-supabase,kenji-skills,adaptado,matriz rota e porteiro (audit-auth-flows)
+engenharia,next-supabase,,do zero,"Next 16, @supabase/ssr e dinheiro e datas, a partir da documentação conferida em 08/11/2026"
+engenharia,agents/explorador,feature-dev,adaptado,code-explorer
+engenharia,agents/explorador,prflow,adaptado,"doc é mapa, números marcados"
+engenharia,agents/revisor-independente,feature-dev,adaptado,code-reviewer com corte de confiança
+engenharia,agents/revisor-independente,code-review-oficial,adaptado,só sinal alto
+engenharia,agents/revisor-independente,ticket-plugin,ideia,"só a ideia de revisor sem a conversa; texto do zero, porque a fonte é CC BY-SA 4.0"
+engenharia,agents/revisor-independente,dishonest-code-audit,adaptado,guarda contra instrução embutida no repositório
+compartilhado,dados-pessoais-br,,do zero,"padrões, dígito verificador testado com o exemplo oficial e máscara"
+compartilhado,next16-seguranca,vibeguard,adaptado,"lista por App Router, reescrita contra a documentação do Next 16"
+compartilhado,next16-seguranca,kenji-skills,adaptado,sondas fora de produção
+compartilhado,next16-seguranca,,do zero,"CSP com nonce, cache com dado de usuário e after, a partir da documentação"
+seguranca-infra,agents/verificador-cetico,claude-war-room,adaptado,"protocolo de refutação, com o terceiro estado no lugar de na dúvida, refutar"
+seguranca-infra,agents/verificador-cetico,verified-security-sweep,adaptado,três lentes e vereditos
+seguranca-infra,agents/verificador-cetico,,do zero,regras de leitura e formato
+seguranca-infra,revisao-de-seguranca,securitymaxxing,adaptado,"método, gravidade, oito regras, diff, modo explicado, IA, modelo de ameaça"
+seguranca-infra,revisao-de-seguranca,verified-security-sweep,adaptado,"verificação, reprodução, doze lentes, classes que sobrevivem"
+seguranca-infra,revisao-de-seguranca,project-review,adaptado,prova de só leitura e citação conferida
+seguranca-infra,revisao-de-seguranca,claude-war-room,ideia,matriz por endpoint
+seguranca-infra,revisao-de-seguranca,ship-plugin,adaptado,regras curtas de confiabilidade
+seguranca-infra,revisao-de-seguranca,vibeguard,adaptado,varredura por prioridade e corrigir
+seguranca-infra,revisao-de-seguranca,wai-suite,adaptado,"superfície, cadeias de ataque, não medido, três superfícies de CVE"
+seguranca-infra,revisao-de-seguranca,ateam-security-audit,adaptado,"regras fixas, cobertura, o que sai da máquina, reverificar"
+seguranca-infra,revisao-de-seguranca,claude-code-toolkit,adaptado,testes sem ler código
+seguranca-infra,revisao-de-seguranca,descope-skills,adaptado,"inventário, matriz e catálogo de autorização"
+seguranca-infra,revisao-de-seguranca,aws-startups,ideia,falha fechado e teste negativo
+seguranca-infra,revisao-de-seguranca,mcp-connector,adaptado,MCP próprio
+seguranca-infra,revisao-de-seguranca,kenji-skills,adaptado,auth no Next com Supabase
+seguranca-infra,revisao-de-seguranca,dependency-sentinel,adaptado,julgamento de CVE e pacote novo
+seguranca-infra,revisao-de-seguranca,latio,adaptado,"controles permanentes, GitHub Actions"
+seguranca-infra,revisao-de-seguranca,infynon,ideia,perguntas por CVE
+seguranca-infra,revisao-de-seguranca,install-checkpoint,adaptado,duas passadas e veredito
+seguranca-infra,revisao-de-seguranca,security-watchdog,adaptado,"taxonomia, exemplos reescritos de forma genérica"
+seguranca-infra,supabase,supabase-expert,adaptado,"regras de RLS, Storage e checklist, conferidos contra a documentação"
+seguranca-infra,supabase,kenji-skills,adaptado,auditoria e matriz
+seguranca-infra,supabase,rls-schema-explorer,ideia,ler o esquema real antes
+seguranca-infra,supabase,gcp-devkit,ideia,uma política por operação e três atores
+seguranca-infra,supabase,aws-startups,ideia,teste negativo
+seguranca-infra,supabase,mcp-connector,ideia,rodar como o usuário
+seguranca-infra,supabase,db-migration-guard,adaptado,"bloco de risco, padrões e matriz"
+seguranca-infra,supabase,backend-design,adaptado,cinco condições e ordem de leitura
+seguranca-infra,supabase,coding-skills,adaptado,expandir e contrair
+seguranca-infra,supabase,opinionated-prisma,ideia,"rollback ao lado da migração, com as correções"
+seguranca-infra,supabase,,do zero,"testes de RLS, backup, camada da CLI e advisors, a partir da documentação"
+seguranca-infra,segredos-e-publicacao,securitymaxxing,adaptado,"varredura, histórico e tabela de rotação"
+seguranca-infra,segredos-e-publicacao,varlock,adaptado,regras de sessão
+seguranca-infra,segredos-e-publicacao,env-protector,adaptado,regras e bloco do gitignore
+seguranca-infra,segredos-e-publicacao,maisecrets,adaptado,"conter vazamento, ler resultado, cópia para compartilhar"
+seguranca-infra,segredos-e-publicacao,clawkeeper,adaptado,máscara e rastreado ou ignorado
+seguranca-infra,segredos-e-publicacao,latio,adaptado,"gitignore, env example e CI"
+seguranca-infra,segredos-e-publicacao,op-secrets,adaptado,nunca pedir segredo no chat
+seguranca-infra,segredos-e-publicacao,aws-core,ideia,referência no lugar do valor
+seguranca-infra,segredos-e-publicacao,ateam-security-audit,adaptado,checagens sem scanner
+seguranca-infra,segredos-e-publicacao,public-repo-readiness,adaptado,"fluxo, impressão digital, plano em ordem"
+seguranca-infra,segredos-e-publicacao,toolbox-gatekeeper,adaptado,termos proibidos e identidades permitidas
+seguranca-infra,segredos-e-publicacao,data-protection,ideia,estrutura da árvore de incidente
+seguranca-infra,segredos-e-publicacao,,do zero,"prefixos do Supabase e da Vercel, padrões brasileiros, LGPD e ANPD"
+seguranca-infra,deploy-e-lancamento,serverless-audit,adaptado,bugs por consequência
+seguranca-infra,deploy-e-lancamento,securitymaxxing,adaptado,portão e dez bloqueantes
+seguranca-infra,deploy-e-lancamento,join-the-team,adaptado,"modos de falha, rollback testado, tabela de desculpas"
+seguranca-infra,deploy-e-lancamento,n360,adaptado,pós-deploy e regra de rollback
+seguranca-infra,deploy-e-lancamento,ship-plugin,adaptado,operação mínima
+seguranca-infra,deploy-e-lancamento,webscanner,ideia,lista passiva
+seguranca-infra,deploy-e-lancamento,,do zero,"tabela da Vercel e bloqueantes de Supabase e Vercel, a partir da documentação"
+seguranca-infra,docker-local,homelab-docker-ops,adaptado,"inventário, falhas silenciosas, atualizar é recriar"
+seguranca-infra,docker-local,docker-kubernetes,adaptado,"diagnóstico, compose, Dockerfile"
+seguranca-infra,docker-local,drydock,adaptado,códigos de saída e compose
+seguranca-infra,docker-local,docker-skills,adaptado,camadas para o que apaga estado
+seguranca-infra,docker-local,latio,ideia,endurecer containers
+seguranca-infra,docker-local,deployshield,ideia,ação destrutiva e contexto
+seguranca-infra,docker-local,,do zero,Windows e WSL2
+compartilhado,bloco-comum,adds-up,ideia,princípios de relatar sem alterar e nunca adivinhar
+compartilhado,bloco-comum,grayskripko-csv-cleanup,adaptado,traduzido e condensado
+compartilhado,bloco-comum,,do zero,"regra fiscal, padrão brasileiro e fecho"
+compartilhado,dados/obrigacoes-br.csv,,do zero,"calendário por regime, conferido na Agenda da Receita"
+escritorio-contabil,confere-numeros,adds-up,adaptado,"traduzido, condensado, sem o script, com glossário brasileiro"
+escritorio-contabil,confere-numeros,earnings-reviewer,adaptado,"só as checagens de fórmula e amarrações; sem DCF, LBO e fusão"
+escritorio-contabil,confere-numeros,statutory-reporting,adaptado,"revisão forense, sem a propaganda e sem limiares"
+escritorio-contabil,planilhas,grayskripko-csv-cleanup,adaptado,traduzido e condensado; formato de receita do zero
+escritorio-contabil,planilhas,readoc,ideia,só a regra de conversão de texto para número
+escritorio-contabil,planilhas,,do zero,formato concreto da receita e seção de Power Query em português
+escritorio-contabil,documento-oficial,admin-desk,adaptado,"traduzido, condensado, para escritório; sem risco à vida"
+escritorio-contabil,documento-oficial,,do zero,modo guia e boleto (FEBRABAN)
+escritorio-contabil,pops-e-guias,mdiener-sop,adaptado,"traduzido, modelos reescritos e exemplos de escritório"
+escritorio-contabil,pops-e-guias,admin-desk,ideia,rótulos de origem
+escritorio-contabil,pops-e-guias,steuer,ideia,formato de guia de portal por print
+escritorio-contabil,pops-e-guias,writing-skills,ideia,só princípios de texto claro
+escritorio-contabil,pops-e-guias,,do zero,guia por empresa
+escritorio-contabil,extratos-e-conciliacao,extractos-ar,adaptado,traduzido e condensado; famílias brasileiras e D/C do zero
+escritorio-contabil,extratos-e-conciliacao,pdf-to-excel,adaptado,junção entre páginas e conferência por amostra
+escritorio-contabil,extratos-e-conciliacao,invoice-matcher,adaptado,"traduzido, sem o link promocional e sem o passe de humanizar"
+escritorio-contabil,extratos-e-conciliacao,worker-k,ideia,só o demonstrativo bancário
+escritorio-contabil,extratos-e-conciliacao,steuer,adaptado,pipeline de classificação e portão
+escritorio-contabil,extratos-e-conciliacao,anthropic-finance,adaptado,"reconciliation: categorias, idade e tolerância"
+escritorio-contabil,extratos-e-conciliacao,germany-finance,adaptado,abstimmung: controle de soma e amarração do imposto
+escritorio-contabil,extratos-e-conciliacao,grayskripko-sku-margin,adaptado,reconcile-seller-exports: repasses
+escritorio-contabil,extratos-e-conciliacao,gl-reconciler,adaptado,"break-trace: frase de causa, dono e ação"
+escritorio-contabil,extratos-e-conciliacao,,do zero,"casamento linha a linha, scripts extrato.py e ofx.py"
+escritorio-contabil,notas-fiscais,uk-finance,adaptado,scan-invoices: só as regras de extração
+escritorio-contabil,notas-fiscais,open-tax,ideia,esquema único e ficha por fonte
+escritorio-contabil,notas-fiscais,adds-up,ideia,método de conferência
+escritorio-contabil,notas-fiscais,grayskripko-csv-cleanup,ideia,fechamento por grupo
+escritorio-contabil,notas-fiscais,,do zero,mapas de XML e script notas_xml.py
+escritorio-contabil,contabilidade-do-mes,anthropic-finance,adaptado,"journal-entry-prep, close-management e financial-statements"
+escritorio-contabil,contabilidade-do-mes,germany-finance,adaptado,"buchungssatz, monatsabschluss e o molde de ust-voranmeldung; nenhuma regra alemã"
+escritorio-contabil,contabilidade-do-mes,uk-finance,adaptado,"vat-reconciliation e mtd-filing: a trava, sem código"
+escritorio-contabil,contabilidade-do-mes,statutory-reporting,adaptado,"tb-classification e financial-statements, sem a propaganda"
+escritorio-contabil,contabilidade-do-mes,,do zero,"regras brasileiras, estrutura de BP e DRE, apuração"
+memoria-e-contexto,memoria,cairn-memory,adaptado,"camadas, cinco perguntas, 10 critérios; descrição estreitada"
+memoria-e-contexto,memoria,ease-os,adaptado,"portão com a entrada exata, tetos por arquivo"
+memoria-e-contexto,memoria,claude-memory,adaptado,árvores de salvar e lembrar
+memoria-e-contexto,memoria,claude-anti-mem,adaptado,"Gatilho e Checagem, sem o arquivo fora do projeto"
+memoria-e-contexto,memoria,conductor-nguyengiatam,adaptado,tabela de fronteiras entre camadas
+memoria-e-contexto,memoria,hipocampus,adaptado,o que não salvar e frescor por tipo
+memoria-e-contexto,memoria,mempenny,adaptado,"escada de poda, destilar, segurança; sem caminho Unix"
+memoria-e-contexto,memoria,wiki-knowledge-compiler,adaptado,critério de contradição
+memoria-e-contexto,memoria,mind-for-claude,adaptado,registro de decisão
+memoria-e-contexto,memoria,anchor-memory,adaptado,superada e substitui
+memoria-e-contexto,memoria,adaptive-agent,adaptado,"seções do perfil, com validação"
+memoria-e-contexto,memoria,productivity-pro,adaptado,"glossário, decodificar antes de agir"
+memoria-e-contexto,memoria,anthropic-productivity,ideia,origem do método do glossário
+memoria-e-contexto,memoria,nexaya-os,adaptado,"checagens da memória, cópias de conflito"
+memoria-e-contexto,memoria,loop-and-gate,adaptado,filtro de captura
+memoria-e-contexto,continuidade,ease-os,adaptado,"laços com cinco destinos, reconferir o afirmado"
+memoria-e-contexto,continuidade,loop-and-gate,adaptado,uma lição por sessão
+memoria-e-contexto,continuidade,delivery-skills,adaptado,filtro do que se repetiria
+memoria-e-contexto,continuidade,active-memory,adaptado,código-palavra
+memoria-e-contexto,continuidade,session-handoff,adaptado,modelo da passagem e retomada conferida
+memoria-e-contexto,continuidade,conductor-nguyengiatam,adaptado,arquivo de estado com evidência
+memoria-e-contexto,continuidade,prep-compact,adaptado,linha do /compact
+memoria-e-contexto,continuidade,forgot,adaptado,regras esquecidas
+memoria-e-contexto,continuidade,context-handoff,adaptado,prompt curto
+memoria-e-contexto,continuidade,context-distill,adaptado,desconhecido em vez de chute
+memoria-e-contexto,cofre,wiki-wonka,adaptado,"ingestão, consulta e lint"
+memoria-e-contexto,cofre,obsidian-notes,adaptado,"links, índices, configuração; conferido na ajuda do Obsidian"
+memoria-e-contexto,cofre,axiomcore,adaptado,"roteamento por conteúdo, frescor em duas classes"
+memoria-e-contexto,cofre,obsidian-vault,adaptado,tipos de página
+memoria-e-contexto,cofre,mind-for-claude,adaptado,"escopo por pergunta, caixa de entrada"
+memoria-e-contexto,cofre,learning-framework,ideia,"nota evergreen e PARA, texto do zero"
+memoria-e-contexto,cofre,loop-and-gate,adaptado,caixa de entrada em quatro baldes
+memoria-e-contexto,cofre,memory-toolkit,adaptado,estacionar ideia
+memoria-e-contexto,cofre,studypath,adaptado,nota de aula
+memoria-e-contexto,cofre,hipocampus,ideia,"rolar diárias, só a ideia"
+memoria-e-contexto,cofre,wiki-knowledge-compiler,adaptado,filtro de privacidade e volta para a base; padrões brasileiros do zero
+memoria-e-contexto,cofre,nexaya-os,adaptado,lista de nunca abrir
+memoria-e-contexto,instrucoes,superpowers-optimized,adaptado,só o que o agente não descobre
+memoria-e-contexto,instrucoes,mattpocock-skills,adaptado,"escada de informação, ponteiro"
+memoria-e-contexto,instrucoes,supermatt,adaptado,acréscimos ao escrever para agentes
+memoria-e-contexto,instrucoes,claude-md-optimizer,adaptado,encolher CLAUDE.md
+memoria-e-contexto,instrucoes,skillquiver,adaptado,classificação e auditoria
+memoria-e-contexto,instrucoes,claude-workflow,adaptado,"permissões e hooks, revalidado na doc oficial"
+memoria-e-contexto,instrucoes,hook-doctor,adaptado,diagnóstico de hook
+memoria-e-contexto,instrucoes,kenji-skills,adaptado,erro vira guarda testada
+memoria-e-contexto,instrucoes,context-optimizer,adaptado,custo de hooks e cascata
+memoria-e-contexto,instrucoes,instructions-cleanup,adaptado,"descoberto, carregado e seguido"
+memoria-e-contexto,instrucoes,your-rules-file,adaptado,teste antes e depois
+memoria-e-contexto,instrucoes,delivery-skills,adaptado,escada de onde a correção mora
+memoria-e-contexto,instrucoes,shazam,ideia,"guarda de git, sem hook no plugin"

@@ -1,0 +1,9 @@
+{
+  "name": "escritorio-contabil",
+  "displayName": "Escritório contábil",
+  "version": "0.1.0",
+  "description": "Documentos e números de escritório contábil brasileiro: conferir, limpar planilhas, ler extrato e nota, conciliar, ler documento oficial, escrever procedimento e fechar o mês. Regra fiscal sempre do arquivo de dados, com vigência e fonte.",
+  "author": { "name": "P1xeled" },
+  "license": "Apache-2.0",
+  "keywords": ["contabilidade", "escritório contábil", "extrato", "conciliação", "NF-e", "Simples Nacional", "MEI", "planilhas", "POP"]
+}

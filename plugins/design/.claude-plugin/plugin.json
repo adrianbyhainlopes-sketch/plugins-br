@@ -1,0 +1,9 @@
+{
+  "name": "design",
+  "displayName": "Design",
+  "version": "0.1.0",
+  "description": "Direção visual que não parece genérica, telas que funcionam (estados, formulários com formatos brasileiros, acessibilidade WCAG 2.2, LBI e eMAG), apresentações com narrativa e PDF conferido, documentos longos, SVG e peças estáticas em PDF ou PNG, com receita testada no Windows.",
+  "author": { "name": "P1xeled" },
+  "license": "Apache-2.0",
+  "keywords": ["design", "interface", "acessibilidade", "apresentações", "pdf", "svg", "tailwind"]
+}

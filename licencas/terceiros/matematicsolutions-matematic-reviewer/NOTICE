@@ -1,0 +1,14 @@
+matematic-reviewer - NOTICE
+
+The three skills in this plugin are content-review adaptations of "Marko" by Julian
+Galluzzo (https://github.com/julianmemberstack/marko), a code reviewer for Claude Code,
+MIT licence, Copyright (c) 2026 Julian Galluzzo. The upstream licence text ships in
+LICENSES/marko-MIT.txt and remains in force for the adapted parts: the verdict format
+and the "no fixes" rule, kept 1:1.
+
+Charge categories, the Polish 2026 spelling scanner, the Portuguese patterns, language
+and scope: Wieslaw Mazur / MateMatic Solutions, MIT licence (see LICENSE).
+
+Canonical sources: reviewer-en lives in matematicsolutions/awesome-matematic-skills-en,
+marko-pl-content in matematicsolutions/awesome-matematic-skills-pl; this repository is
+the home of reviewer-pt. scripts/canon_check.py keeps the copies identical.

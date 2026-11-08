@@ -1,0 +1,9 @@
+{
+  "name": "pequeno-negocio",
+  "displayName": "Pequeno negócio",
+  "version": "0.1.0",
+  "description": "Marca, Instagram, copy, anúncios e números de um pequeno negócio brasileiro, com trava de fatos e regras brasileiras de publicidade: perfil da marca, posts e carrosséis, páginas e alegações, anúncios e quanto pagar por cliente, margem, preço e caixa.",
+  "author": { "name": "P1xeled" },
+  "license": "Apache-2.0",
+  "keywords": ["marketing", "instagram", "copy", "anúncios", "finanças", "pequeno negócio"]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "memoria-e-contexto",
+  "displayName": "Memória e contexto",
+  "version": "0.1.0",
+  "description": "O que o Claude guarda, como retoma e como é instruído: memória com aprovação, fechamento e retomada conferidos, cofre de notas e instruções que funcionam. Em português do Brasil, feito para Claude Code e Cowork; no chat, entrega a entrada pronta para colar.",
+  "author": { "name": "P1xeled" },
+  "license": "Apache-2.0",
+  "keywords": ["memória", "contexto", "passagem", "obsidian", "claude-md", "instruções", "hooks"]
+}

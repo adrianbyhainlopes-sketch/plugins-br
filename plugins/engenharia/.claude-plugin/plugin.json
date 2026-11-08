@@ -1,0 +1,9 @@
+{
+  "name": "engenharia",
+  "displayName": "Engenharia",
+  "version": "0.1.0",
+  "description": "Trabalhar em código com prova: planejar antes, testes que conseguem falhar, pronto com evidência, revisão que complementa o /code-review, depuração por hipótese, Next.js 16 com Supabase e automações (Python no Windows, n8n, webhooks) que rodam de novo sem duplicar. Feito para o Claude Code; dois agentes só de leitura.",
+  "author": { "name": "P1xeled" },
+  "license": "Apache-2.0",
+  "keywords": ["engenharia", "testes", "revisão", "depuração", "nextjs", "supabase", "python", "automação", "n8n"]
+}

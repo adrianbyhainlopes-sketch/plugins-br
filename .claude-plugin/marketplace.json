@@ -1,0 +1,47 @@
+{
+  "name": "plugins-br",
+  "owner": {
+    "name": "P1xeled"
+  },
+  "metadata": {
+    "description": "Plugins em português do Brasil, condensados do catálogo da comunidade: escrita, escritório contábil, memória, engenharia, segurança, design e pequeno negócio.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "escrita",
+      "source": "./plugins/escrita",
+      "description": "Escrever e revisar em português do Brasil sem mudar o que o autor disse."
+    },
+    {
+      "name": "pequeno-negocio",
+      "source": "./plugins/pequeno-negocio",
+      "description": "Marca, Instagram, copy, anúncios e números de um pequeno negócio brasileiro, sem inventar fato nem número."
+    },
+    {
+      "name": "design",
+      "source": "./plugins/design",
+      "description": "Direção visual, telas, apresentações e impressos em português do Brasil, com acessibilidade e PDF conferido no Windows."
+    },
+    {
+      "name": "engenharia",
+      "source": "./plugins/engenharia",
+      "description": "Código com prova no Claude Code: planejar, testar, revisar, depurar, Next.js 16 com Supabase e automações que não duplicam."
+    },
+    {
+      "name": "seguranca-infra",
+      "source": "./plugins/seguranca-infra",
+      "description": "Segurança de app Next.js com Supabase na Vercel, no Claude Code: revisão com evidência, RLS e migrações, segredos e repositório público, portão de deploy e containers locais."
+    },
+    {
+      "name": "escritorio-contabil",
+      "source": "./plugins/escritorio-contabil",
+      "description": "Documentos e números de escritório contábil brasileiro: conferir, planilhas, extrato e nota, conciliar, documento oficial, procedimento e fechar o mês, com regra fiscal sempre em arquivo de dados com vigência e fonte."
+    },
+    {
+      "name": "memoria-e-contexto",
+      "source": "./plugins/memoria-e-contexto",
+      "description": "O que o Claude guarda, como retoma e como é instruído: memória com aprovação, fechamento e retomada conferidos, cofre de notas e instruções que funcionam."
+    }
+  ]
+}

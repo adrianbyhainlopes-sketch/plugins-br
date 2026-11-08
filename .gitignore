@@ -1,0 +1,34 @@
+# Recorte público: tudo fica de fora, salvo o que está listado aqui.
+# Arquivo novo na raiz não entra por engano; para publicar algo, acrescente a linha.
+/*
+!/.gitignore
+!/.claude-plugin/
+!/plugins/
+!/compartilhado/
+!/ferramentas/
+!/creditos/
+!/extras/
+!/licencas/
+!/CREDITS.md
+!/LICENSE
+!/NOTICE
+!/README.md
+
+# Nunca entra, mesmo dentro de uma pasta permitida.
+__pycache__/
+*.pyc
+*.log
+*.tmp
+.env
+.env.*
+
+# Regras anteriores, mantidas caso a lista acima mude.
+# Conteúdo de terceiros: regenerável pelo programa a partir das versões fixas (sha).
+fontes/
+leitura/
+fase1/pacotes/
+# Camada pessoal (R-010): nunca vai para o repositório público.
+pessoal/
+# Pacotes gerados pelo ferramentas/montar.py --zip
+dist/
+.claude/settings.local.json
